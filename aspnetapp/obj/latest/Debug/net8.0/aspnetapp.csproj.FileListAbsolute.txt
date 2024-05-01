@@ -28,3 +28,4 @@
 /home/keagan/git-going/aspnetapp/aspnetapp/obj/latest/Debug/net8.0/aspnetapp.pdb
 /home/keagan/git-going/aspnetapp/aspnetapp/obj/latest/Debug/net8.0/aspnetapp.genruntimeconfig.cache
 /home/keagan/git-going/aspnetapp/aspnetapp/obj/latest/Debug/net8.0/ref/aspnetapp.dll
+/home/keagan/git-going/aspnetapp/aspnetapp/obj/latest/Debug/net8.0/aspnetapp.sourcelink.json
