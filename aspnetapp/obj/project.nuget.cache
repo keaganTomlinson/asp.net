@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ygaf+xt3vlDU3PdefR3ewRACfcW0V1z3Gu2kJLASiWbOKcXRKIGe7QfBh3lTfNh2GDwdIWNyl1+81erRckd3pQ==",
+  "dgSpecHash": "B7r/BCC/08SlRX7pfV/VMwAdXeUzB6dKLxWiO6FH1sfw4hizFB05AZowAgGuCxwj7ojKVQivIIioSKFP2W/J1g==",
   "success": true,
-  "projectFilePath": "/home/keagan/git-going/aspnetapp/aspnetapp/aspnetapp.csproj",
+  "projectFilePath": "/home/keagan/git-going/asp.net/aspnetapp/aspnetapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
