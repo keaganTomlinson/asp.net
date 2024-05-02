@@ -6,6 +6,10 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
     - uses: actions/checkout@v4
+    - run: echo " ${{VERSION}}"
+    - run: echo "vars  ${{vars.VERSION}}"
+    - run: echo "github ${{github.VERSION}}"
+    - run: echo "env  ${{env.VERSION}}"
     - name: build the docker image 
-      run: docker build -t aspdotnet/${{vars.VERSION}} .
+      run: docker build -t aspdotnet/v${{vars.VERSION}} .
       shell: bash 
