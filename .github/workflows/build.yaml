@@ -12,4 +12,3 @@ jobs:
     - name: build the docker image 
       run: docker build -t aspdotnet/v${{vars.VERSION}} .
       shell: bash 
-    - run: echo "test"
