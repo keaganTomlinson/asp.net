@@ -1,0 +1,13 @@
+name: asp.net build and test 
+on: [push]
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: setup .net core 
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8'
+    - uses: actions/checkout@v4
+    - name: build with dotnet
+      run: dotnet build ./aspnetapp/aspnetapp.sln  /p:Platform="Any CPU"
