@@ -5,7 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v4
-      - run: false
       - name: setup .net core
         uses: actions/setup-dotnet@v4
         with:

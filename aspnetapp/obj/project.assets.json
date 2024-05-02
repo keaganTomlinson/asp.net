@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/keagan/git-going/asp.net/aspnetapp/aspnetapp.csproj",
+      "projectUniqueName": "/home/keagan/git-going/asp.net/asp.net/aspnetapp/aspnetapp.csproj",
       "projectName": "aspnetapp",
-      "projectPath": "/home/keagan/git-going/asp.net/aspnetapp/aspnetapp.csproj",
+      "projectPath": "/home/keagan/git-going/asp.net/asp.net/aspnetapp/aspnetapp.csproj",
       "packagesPath": "/home/keagan/.nuget/packages/",
-      "outputPath": "/home/keagan/git-going/asp.net/aspnetapp/obj/",
+      "outputPath": "/home/keagan/git-going/asp.net/asp.net/aspnetapp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/keagan/.nuget/NuGet/NuGet.Config"
